@@ -1,7 +1,4 @@
 venv
 
 
-# Large model data files
-moviedata.pkl
-moviedata_svd.pkl
 catboost_info/
